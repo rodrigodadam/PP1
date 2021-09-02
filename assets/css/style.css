@@ -12,11 +12,12 @@
 
 /* --- NavMenu --- */
 
-nav {
+/* nav {
     position: fixed;
     width: 100%;
     font-family: 'Poppins' sans-serif;
     padding: 15px 0;
+    background: #315564;
 }
 
 nav .navbar {
@@ -37,14 +38,23 @@ nav .navbar .navmenu li {
 }
 
 .navbar .navmenu a {
-    font-size: 20px;
+    font-size: 22px;
     font-weight: 600;
-    color: #315564;
+    color: #F47D4E;
+    display: block;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.navmenu li:hover {
+    background-color: rgb(153, 137, 137);
 }
 
 nav .navbar .navbrand a {
     font-size: 35px;
     font-weight: 600;
-    color: #315564;    
-}
+    color: #F47D4E;    
+} */
+
+
 
