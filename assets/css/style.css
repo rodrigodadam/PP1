@@ -111,4 +111,12 @@
     background: black;
     color: #fff;
     border: .5px solid white;
+    cursor: pointer;
+    transition: all 0.5s ease;
+}
+
+.hero .button button:hover {
+    border-color: black;
+    background-color: white;
+    color: black;
 }
