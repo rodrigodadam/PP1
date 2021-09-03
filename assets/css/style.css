@@ -120,3 +120,41 @@
     background-color: white;
     color: black;
 }
+
+
+
+
+
+/* ============ Start Responsive Media Query ============ */
+
+@media (max-width: 900px) {
+
+    .hero .text-two {
+        font-size: 65px;
+    }
+
+    .hero .text-three {
+        font-size: 40px;
+    }
+}
+
+@media (max-width: 750px) {
+
+    .hero .text-two {
+        font-size: 54px;
+    }
+
+    .hero .text-three {
+        font-size: 35px;
+    }
+}
+
+@media (max-width: 600px) {
+    .hero .text-two {
+        font-size: 40px;
+    }
+
+    .hero .text-three {
+        font-size: 30px;
+    }
+}
