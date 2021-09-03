@@ -11,7 +11,7 @@
 
 /* ============ Header ============ */
 
-/* --- NavMenu --- */
+/* --- Start NavMenu --- */
 
 .navbar-brand span {
     color: white;
@@ -50,4 +50,4 @@
     color: #F26934!important;
 }
 
-
+/* --- End NavMenu --- */
