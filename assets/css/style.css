@@ -125,6 +125,17 @@
 
 /* --- Start About Section --- */
 
+.about .content {
+    width: 80%;
+    margin: 42px auto;
+    background: blue;
+}
+
+.about .about-details {
+    display: flex;
+    justify-content: space-between;
+}
+
 .about .left img {
     height: 450px;
     width: 450px;
