@@ -150,6 +150,22 @@
 }
 
 @media (max-width: 600px) {
+    
+    .hero .text-two {
+        font-size: 40px;
+    }
+
+    .hero .text-three {
+        font-size: 30px;
+    }
+}
+
+@media (max-width: 450px) {
+    
+    .hero {
+        text-align: center;
+    }
+
     .hero .text-two {
         font-size: 40px;
     }
