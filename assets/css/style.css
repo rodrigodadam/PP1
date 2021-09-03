@@ -71,4 +71,29 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
+    font-family: 'Poppins';
+}
+
+.hero .text-one {
+    font-size: 30px;
+    font-weight: 300;
+    color: #fff;
+}
+
+.hero .text-two {
+    color: #fff;
+    font-size: 80px;
+    font-weight: 550;
+    margin-left: -5px;
+    text-shadow: 0 .4rem .4rem rgba(255, 255, 255, 0.4);
+}
+
+.hero .text-three {
+    font-size: 55px;
+    font-weight: 450;
+    margin-top: -10;
+    margin: 5px 0;
+    color: #F26934;
+    text-shadow: 0 .6rem .6rem rgba(255, 255, 255, 0.2);
+    text-decoration-line: underline;
 }
