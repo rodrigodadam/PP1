@@ -121,9 +121,19 @@
     color: black;
 }
 
+/* --- End Hero Section --- */
 
+/* --- Start About Section --- */
 
+.about .left img {
+    height: 450px;
+    width: 450px;
+    object-fit: cover;
+    border-radius: 20px;
+    border: 2px black solid;
+}
 
+/* --- End About Section --- */
 
 /* ============ Start Responsive Media Query ============ */
 
