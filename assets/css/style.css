@@ -201,7 +201,54 @@
 
 /* ============ Start Responsive Media Query ============ */
 
+@media (max-width: 1500px) {
+    .about .content {
+        width: 90%;
+    }
+}
+
+@media (max-width: 1300px) {
+    .about .content {
+        width: 85%;
+    }
+
+    .about .about-details .about-left {
+        display: flex;
+        justify-content: center;
+        margin-top: 50px;
+        width: 100%;
+    }
+
+    .about .about-details .about-right {
+        width: 90%;
+        margin: 5px 0;
+    }
+}
+
+@media (max-width: 1150px) {
+    .about .about-details .about-left {
+        margin-top: 90px;
+    }
+}
+
 @media (max-width: 900px) {
+
+    .about .about-details {
+        justify-content: center;
+        flex-direction: column;
+        margin-top: -40px;
+    }
+
+    .about .about-details .about-left {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+
+    .about-details .about-right {
+        width: 90%;
+        margin: 40px 0;
+    }
 
     .hero .text-two {
         font-size: 65px;
