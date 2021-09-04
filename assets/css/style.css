@@ -128,7 +128,8 @@
 .about .content {
     width: 80%;
     margin: 42px auto;
-    background: blue;
+    font-family: 'Poppins';
+    background: grey;
 }
 
 .about .about-details {
@@ -143,6 +144,31 @@
     border-radius: 20px;
     border: 2px black solid;
 }
+
+.about .about-title {
+    justify-content: center;
+    display: flex;
+    margin-bottom: 35px ;
+}
+
+.about .about-title span {
+    padding-bottom: 10px;
+    font-size: 40px;
+    font-weight: 600;
+    position: relative;
+}
+
+.about .about-title span::before,
+.about .about-title span::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 4px;
+    background: black;
+}
+
 
 /* --- End About Section --- */
 
