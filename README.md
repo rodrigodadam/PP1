@@ -16,14 +16,14 @@ This website was created for professional purpose of completing the first Milest
     2. Eeasily navigate throughout the site to find content and information about the Professional.
     3. Look the portfolio to understand the services offered. 
 
-  -   #### Returning Visitor Goals
+  - #### Returning Visitor Goals
 
     1. Find information about the services offered.
     2. Find the best way to get in contact with the professional with any questions.
     3. Find social media links.
     4. Hire the Professional services.
 
-  -   #### Frequent User Goals
+  - #### Frequent User Goals
 
     1. Check to see if there are any new services.
     2. Check to see if there are new skills as a customer needed.
