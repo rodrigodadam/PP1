@@ -129,7 +129,6 @@
     width: 80%;
     margin: 42px auto;
     font-family: 'Poppins';
-    background: grey;
 }
 
 .about .about-details {
@@ -137,9 +136,13 @@
     justify-content: space-between;
 }
 
-.about .left img {
-    height: 450px;
-    width: 450px;
+.about .about-details .about-left {
+    width: 35%;
+}
+
+.about .about-left img {
+    height: 400px;
+    width: 400px;
     object-fit: cover;
     border-radius: 20px;
     border: 2px black solid;
@@ -148,14 +151,16 @@
 .about .about-title {
     justify-content: center;
     display: flex;
-    margin-bottom: 35px ;
+    margin-bottom: 40px;
+    color: black;
 }
 
 .about .about-title span {
-    padding-bottom: 10px;
+    padding-bottom: 25px;
     font-size: 40px;
     font-weight: 600;
     position: relative;
+    margin-top: 25px;
 }
 
 .about .about-title span::before,
@@ -168,6 +173,28 @@
     height: 4px;
     background: black;
 }
+
+.about .about-details .about-right {
+    width: 65%;
+    margin-right: 25px;
+}
+
+.about .about-details .about-right p {
+    font-size: 20px;
+    text-align: justify;
+    color: black;
+}
+
+.about .about-topic {
+    color: black;
+    font-size: 35px;
+    font-weight: 500;
+    margin-bottom: 15px;
+    margin-top: 60px;
+}
+
+
+
 
 
 /* --- End About Section --- */
