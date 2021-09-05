@@ -230,12 +230,11 @@
 }
 
 .skills .skills-details .boxes {
-    width: 80%;
+    width: 90%;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
 }
-
 
 
 /* --- End My Skills Section --- */
