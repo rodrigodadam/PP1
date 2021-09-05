@@ -198,6 +198,10 @@
 
 /* --- Start My Skills Section --- */
 
+.skills {
+    background: #DFDFDF;
+}
+
 .skills .skills-details {
     display: flex;
     align-items: center;
