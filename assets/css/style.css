@@ -151,19 +151,19 @@
 .about .about-title {
     justify-content: center;
     display: flex;
-    margin-bottom: 40px;
+    margin-bottom: 30px;
     color: black;
 }
 
 .about .about-title span {
-    padding-bottom: 25px;
+    padding-bottom: 20px;
     font-size: 40px;
     font-weight: 600;
     position: relative;
     margin-top: 25px;
 }
 
-.about .about-title span::before,
+/* .about .about-title span::before,
 .about .about-title span::after {
     content: '';
     position: absolute;
@@ -172,7 +172,7 @@
     width: 100%;
     height: 4px;
     background: black;
-}
+} */
 
 .about .about-details .about-right {
     width: 65%;
@@ -193,11 +193,40 @@
     margin-top: 60px;
 }
 
-
-
-
-
 /* --- End About Section --- */
+
+
+/* --- Start My Skills Section --- */
+
+.skills .skills-details {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.skills .about-title {
+    justify-content: center;
+    display: flex;
+    margin-bottom: 30px;
+    color: black;
+}
+
+.skills .about-title span {
+    padding-bottom: 20px;
+    font-size: 40px;
+    font-weight: 600;
+    position: relative;
+    margin-top: 25px;
+}
+
+.skills .content {
+    width: 80%;
+    margin: 42px auto;
+    font-family: 'Poppins';
+}
+
+
+/* --- End My Skills Section --- */
 
 /* ============ Start Responsive Media Query ============ */
 
