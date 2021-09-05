@@ -59,6 +59,7 @@ This website was created for professional purpose of completing the first Milest
 
 # TO DO BELOW
 
+USED - https://htmlcolorcodes.com/ to choice the colors to webpage
 
 
 ## Features 
