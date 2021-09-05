@@ -199,7 +199,7 @@
 /* --- Start My Skills Section --- */
 
 .skills {
-    background: #DFDFDF;
+    background: #000;
 }
 
 .skills .content {
@@ -218,7 +218,7 @@
     justify-content: center;
     display: flex;
     margin-bottom: 30px;
-    color: black;
+    color: white;
 }
 
 .skills .about-title span {
@@ -234,8 +234,23 @@
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
+    
 }
 
+.skills-details .boxes .box .skill-topic {
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.skills-details .boxes .per {
+    font-size: 35px;
+    font-weight: 800;
+}
+
+.progress {
+    height: 1.5rem!important;
+    /* width: 20rem!important; */
+  }
 
 /* --- End My Skills Section --- */
 
