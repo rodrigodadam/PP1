@@ -31,11 +31,30 @@ This website was created for professional purpose of completing the first Milest
 ## Product Backlog
 
 - __ADD DB__
+- __ADD Form page to HIRE ME Button__
 - __Create a Form to NewsLetters__
 - __Create a Popups to NewaLetters__
 - __Add a Content Management System (CMS) *Blog*__
 - __Separate The Portfolio Into a Single Tab__
 - __Stay Within the SOLID Principles as Much as Possible__
+
+
+## Structure
+
+-   This MVP webpage is a Static page and contain navigation menu fixed at the top, which will direct the users to the selected part as the guest needed. On the right the guest users can see the Brand name to reinforcing the professionalism.
+
+    -   In header the guest user can see the hero image and the a bit information about the Professional, also has a **HIRE BUTTON** that can easy send the guest user to a form page to send a request to Professional about the services and prices, The Form Page will be included later in this project.
+
+    -   Also the guests users could see the social icon links for easy access to social media for more content without scrolling the page.
+
+    -   In **About** Section all guest user can see more information **About** the Professional, his history, his information and experience to the guest users understand how the Professional should help in their projects.
+
+ 
+
+
+
+
+
 
 
 # TO DO BELOW
