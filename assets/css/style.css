@@ -293,6 +293,14 @@
     }
 }
 
+@media (max-width: 991px) {
+    .skills .boxes {
+        width: 90%;
+        display: inline-block;
+        margin-bottom: 50px;
+    }
+}
+
 @media (max-width: 900px) {
 
     .about .about-details {
