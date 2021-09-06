@@ -205,7 +205,7 @@
 
 .skills .content {
     width: 80%;
-    margin: 20px auto;
+    margin: 42px auto;
     font-family: 'Poppins';
 }
 
@@ -260,6 +260,13 @@
 }
 
 /* --- End My Skills Section --- */
+
+
+.col-lg-7 {
+    display: flex;
+    justify-content: center;
+}
+
 
 /* ============ Start Responsive Media Query ============ */
 
