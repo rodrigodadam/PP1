@@ -261,11 +261,22 @@
 
 /* --- End My Skills Section --- */
 
+/* --- Start Portfolio Section --- */
 
-.col-lg-7 {
-    display: flex;
+#portfolio .about-title {
+    padding-bottom: 20px;
+    font-size: 40px;
+    font-weight: 600;
+    position: relative;
+    margin-top: 25px;
     justify-content: center;
+    display: flex;
+    margin-bottom: 15px;
+    color: black;
+    font-family: 'Poppins';
 }
+
+/* --- End Portfolio Section --- */
 
 
 /* ============ Start Responsive Media Query ============ */
