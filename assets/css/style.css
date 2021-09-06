@@ -255,6 +255,11 @@
     height: 1.5rem!important;
 }
 
+.progress .progress-bar {
+    font-weight: 600;
+    font-size: large;
+}
+
 /* --- End My Skills Section --- */
 
 /* ============ Start Responsive Media Query ============ */
