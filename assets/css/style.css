@@ -276,6 +276,10 @@
     font-family: 'Poppins';
 }
 
+.carousel-item {
+    height: 32rm;
+}
+
 /* --- End Portfolio Section --- */
 
 
