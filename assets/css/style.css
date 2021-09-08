@@ -8,6 +8,7 @@
     box-sizing: border-box;
     text-decoration: none;
     scroll-behavior: smooth;
+    font-family: 'Poppins';
   }
 
 /* ============ Header ============ */
@@ -284,7 +285,29 @@
 
 /* --- Start My Services Section --- */
 
+.myservices {
+    background: #000;
+}
+.myservices .container {
+    align-items: center;
+    justify-content: center;
 
+}
+
+.myservices .about-title {
+    justify-content: center;
+    display: flex;
+    margin-bottom: 15px;
+    color: white;
+}
+
+.myservices .about-title span {
+    padding-bottom: 15px;
+    font-size: 40px;
+    font-weight: 600;
+    position: relative;
+    margin-top: 25px;
+}
 
 /* --- End My Services Section --- */
 
