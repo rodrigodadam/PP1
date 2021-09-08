@@ -321,10 +321,13 @@
     border-radius: 15px;
     padding: 20px 25px;
     box-shadow: 2px 2px 3px 5px rgba(242, 105, 52, 0.30);
+    text-align: center;
+    color: white;
 }
 
-.myservices .boxes .box {
-    color: white;
+.myservices .boxes .box .myservices-icon {
+    line-height: 50px;
+    margin: 0 auto 10px auto;
 }
 
 /* --- End My Services Section --- */
