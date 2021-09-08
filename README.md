@@ -37,6 +37,7 @@ This website was created for professional purpose of completing the first Milest
 - __Add a Content Management System (CMS) *Blog*__
 - __Separate The Portfolio Into a Single Tab__
 - __Stay Within the SOLID Principles as Much as Possible__
+- __ADD TOPUP to CONTACT-ME Button__
 
 
 ## Structure

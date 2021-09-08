@@ -293,7 +293,6 @@
 .myservices .container {
     align-items: center;
     justify-content: center;
-
 }
 
 .myservices .about-title {
@@ -345,6 +344,35 @@
 
 
 /* --- End My Services Section --- */
+
+/* --- Start Contact-me Section --- */
+
+.contact {
+    margin-bottom: 25px;
+    padding-bottom: 25px;
+}
+
+.contact .container {
+    align-items: center;
+    justify-content: center;
+}
+
+.contact .contact-title {
+    justify-content: center;
+    display: flex;
+    margin-bottom: 15px;
+    color: black;
+}
+
+.contact .contact-title span {
+    padding-bottom: 15px;
+    font-size: 40px;
+    font-weight: 600;
+    position: relative;
+    margin-top: 25px;
+}
+
+/* --- End Contact-me Section --- */
 
 
 /* ============ Start Responsive Media Query ============ */
