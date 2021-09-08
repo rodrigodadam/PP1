@@ -309,6 +309,11 @@
     margin-top: 25px;
 }
 
+.myservices .boxes {
+    display: flex;
+    justify-content: space-between;
+}
+
 /* --- End My Services Section --- */
 
 
