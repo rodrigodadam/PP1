@@ -377,6 +377,10 @@
     .about .about-details .about-left {
         margin-top: 90px;
     }
+
+    .myservices .boxes .box {
+        width: 100%;
+    }
 }
 
 @media (max-width: 991px) {
