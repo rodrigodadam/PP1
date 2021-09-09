@@ -372,6 +372,23 @@
     margin-top: 25px;
 }
 
+.contact .text {
+    text-align: center;
+}
+
+.contact .text .contact-topic {
+    font-size: 35px;
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+
+.contact .text .contact-topic p {
+    font-size: 25px;
+    margin: auto;
+}
+
+
+
 /* --- End Contact-me Section --- */
 
 
