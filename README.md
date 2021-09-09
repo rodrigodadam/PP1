@@ -39,6 +39,7 @@ This website was created for professional purpose of completing the first Milest
 - __Stay Within the SOLID Principles as Much as Possible__
 - __ADD TOPUP to CONTACT-ME Button__
 - __ADD About Me Single Page with more details__
+- __ADD Exemples of each service on a single pages && create a button link to .myservices-topic__
 
 
 ## Structure
