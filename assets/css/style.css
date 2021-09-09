@@ -123,8 +123,7 @@
 
 /* --- Start About Section --- */
 
-.about .content {
-    width: 80%;
+.about .container {
     margin: 42px auto;
 }
 
@@ -436,11 +435,11 @@ footer .footer-text span a:hover {
 
 /* ============ Start Responsive Media Query ============ */
 
-@media (max-width: 1500px) {
+/* @media (max-width: 1500px) {
     .about .content {
         width: 90%;
     }
-}
+} */
 
 @media (max-width: 1300px) {
     .about .content {
