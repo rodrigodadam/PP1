@@ -530,6 +530,11 @@ footer .footer-text span a:hover {
     .hero .text-three {
         font-size: 30px;
     }
+    
+    footer .footer-text span {
+        font-size: 17px;
+    }
+
 }
 
 @media (max-width: 450px) {
