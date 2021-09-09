@@ -159,17 +159,6 @@
     margin-top: 25px;
 }
 
-/* .about .about-title span::before,
-.about .about-title span::after {
-    content: '';
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    height: 4px;
-    background: black;
-} */
-
 .about .about-details .about-right {
     width: 65%;
     margin-right: 25px;
@@ -441,31 +430,50 @@ footer .footer-text span a:hover {
     }
 } */
 
-@media (max-width: 1300px) {
-    .about .content {
-        width: 85%;
-    }
+@media (max-width: 1400px) {
 
     .about .about-details .about-left {
         display: flex;
-        justify-content: center;
         margin-top: 50px;
         width: 100%;
     }
 
     .about .about-details .about-right {
-        width: 90%;
-        margin: 5px 0;
+        width: 100%;
     }
 }
 
 @media (max-width: 1150px) {
+    .about .about-title {
+        margin-bottom: -20px;
+        
+    }
+
     .about .about-details .about-left {
         margin-top: 90px;
     }
 
     .myservices .boxes .box {
         width: 100%;
+    }
+}
+
+@media (max-width: 1000px) {
+    .about .about-title {
+        margin-bottom: -50px;
+
+    }
+    .about .about-details {
+        flex-direction: column;
+    }
+
+    .about .about-details .about-left {
+        justify-content: center;
+        width: 100%;
+    }
+
+    .about-details .about-right {
+        text-align: center;
     }
 }
 
@@ -477,24 +485,9 @@ footer .footer-text span a:hover {
     }
 }
 
+
+
 @media (max-width: 900px) {
-
-    .about .about-details {
-        justify-content: center;
-        flex-direction: column;
-        margin-top: -40px;
-    }
-
-    .about .about-details .about-left {
-        display: flex;
-        justify-content: center;
-        width: 100%;
-    }
-
-    .about-details .about-right {
-        width: 90%;
-        margin: 40px 0;
-    }
 
     .hero .text-two {
         font-size: 65px;
