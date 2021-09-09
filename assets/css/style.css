@@ -377,14 +377,37 @@
 }
 
 .contact .text .contact-topic {
-    font-size: 35px;
+    font-size: 32px;
     font-weight: 500;
     margin-bottom: 15px;
 }
 
-.contact .text .contact-topic p {
-    font-size: 25px;
+.contact .text p {
+    font-size: 20px;
     margin: auto;
+}
+
+.contact .button {
+    margin: 15px 0;
+}
+
+.contact .button button {
+    outline: none;
+    padding: 9px 16px;
+    border-radius: 6px;
+    font-size: 35px;
+    font-weight: 500;
+    background: black;
+    color: #fff;
+    border: .5px solid white;
+    cursor: pointer;
+    transition: all 0.5s ease;
+}
+
+.contact .button button:hover {
+    border-color: black;
+    background-color: white;
+    color: black;
 }
 
 
