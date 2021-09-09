@@ -2,7 +2,7 @@
 
 ### TO DO - "Insert website Link"
 
-This website was created for professional purpose of completing the first Milestone Project for the Code Institute's Full Stack Developer course. However also I'll consider this a MVC for my professional Portfolio and a marketing website where I can share my services. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate whether on your computer, tablet or mobile.
+This website was created for professional purpose of completing the first Milestone Project for the Code Institute's Full Stack Developer course. However also I'll consider this a MVP for my professional Portfolio and a marketing website where I can share my services. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate whether on your computer, tablet or mobile.
 
 ![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
 
@@ -38,6 +38,7 @@ This website was created for professional purpose of completing the first Milest
 - __Separate The Portfolio Into a Single Tab__
 - __Stay Within the SOLID Principles as Much as Possible__
 - __ADD TOPUP to CONTACT-ME Button__
+- __ADD About Me Single Page with more details__
 
 
 ## Structure
