@@ -126,7 +126,6 @@
 .about .content {
     width: 80%;
     margin: 42px auto;
-    font-family: 'Poppins';
 }
 
 .about .about-details {
@@ -272,7 +271,6 @@
     display: flex;
     margin-bottom: 15px;
     color: black;
-    font-family: 'Poppins';
 }
 
 .carousel-item {
