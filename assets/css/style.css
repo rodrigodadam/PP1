@@ -151,7 +151,7 @@
     color: black;
 }
 
-.about .about-title span {
+.about .about-title h2 {
     padding-bottom: 20px;
     font-size: 40px;
     font-weight: 600;
