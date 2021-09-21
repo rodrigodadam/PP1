@@ -94,7 +94,7 @@ section {
 .hero .text-three {
     font-size: 55px;
     font-weight: 450;
-    margin-top: -10;
+    margin-top: -10px;
     margin: 5px 0;
     color: #F26934;
     text-decoration-line: underline;
@@ -266,7 +266,7 @@ section {
 }
 
 .carousel-item {
-    height: 32rm;
+    height: 900px;
 }
 
 /* --- End Portfolio Section --- */
