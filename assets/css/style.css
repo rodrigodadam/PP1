@@ -11,6 +11,10 @@
     font-family: 'Poppins';
   }
 
+section { 
+    padding-top: 50px; 
+}
+
 /* ============ Header ============ */
 
 /* --- Start NavMenu --- */
