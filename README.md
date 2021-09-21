@@ -1,10 +1,10 @@
 # Rodrigo Dadam - Portfolio WebSite
 
-### You can see the MVP website on this link -> https://rodrigodadam.github.io/PP1/
+[You can see the MVP website here](https://rodrigodadam.github.io/PP1/)
 
 This website was created for professional purpose of completing the first Milestone Project for the Code Institute's Full Stack Developer course. However also I'll consider this a MVP for my professional Portfolio and a marketing website where I can share my services. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate whether on your computer, tablet or mobile.
 
-![Responsice Mockup](https://github.com/rodrigodadam/PP1/assets/images/WebSiteMockup.png)
+<h2 align="center"><img src="assets/images/WebSiteMockup2.jpg"></h2>
 
 ## UX - User Experience - MVP
 
@@ -63,6 +63,7 @@ This website was created for professional purpose of completing the first Milest
 # TO DO BELOW
 
 USED - https://htmlcolorcodes.com/ to choice the colors to webpage
+USED - https://stackoverflow.com/ to help with some CSS issues
 
 
 ## Features 
