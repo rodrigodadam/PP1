@@ -4,7 +4,7 @@
 
 This website was created for professional purpose of completing the first Milestone Project for the Code Institute's Full Stack Developer course. However also I'll consider this a MVP for my professional Portfolio and a marketing website where I can share my services. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate whether on your computer, tablet or mobile.
 
-<h2 align="center"><img src="assets/images/WebSiteMockup2.jpg"></h2>
+![Nav Bar](https://github.com/rodrigodadam/PP1/blob/main/assets/images/WebSiteMockup.png)
 
 ## UX - User Experience - MVP
 
