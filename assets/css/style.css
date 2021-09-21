@@ -78,20 +78,20 @@ section {
     justify-content: center;
 }
 
-.hero .text-one {
+.hero h3 {
     font-size: 30px;
     font-weight: 300;
     color: #fff;
 }
 
-.hero .text-two {
+.hero h1 {
     color: #fff;
     font-size: 80px;
     font-weight: 550;
     margin-left: -5px;
 }
 
-.hero .text-three {
+.hero h2 {
     font-size: 55px;
     font-weight: 450;
     margin-top: -10px;
@@ -211,7 +211,7 @@ section {
     color: white;
 }
 
-.skills .about-title span {
+.skills .about-title h2 {
     padding-bottom: 15px;
     font-size: 40px;
     font-weight: 600;
@@ -253,7 +253,7 @@ section {
 
 /* --- Start Portfolio Section --- */
 
-#portfolio .about-title {
+#portfolio .about-title h2 {
     padding-bottom: 20px;
     font-size: 40px;
     font-weight: 600;
@@ -265,8 +265,8 @@ section {
     color: black;
 }
 
-.carousel-item {
-    height: 900px;
+.carousel-item img {
+    height: 800px;
 }
 
 /* --- End Portfolio Section --- */
@@ -297,7 +297,7 @@ section {
     text-decoration: underline;
 }
 
-.myservices .about-title span {
+.myservices .about-title h2 {
     padding-bottom: 15px;
     font-size: 40px;
     font-weight: 600;
@@ -352,7 +352,7 @@ section {
     color: black;
 }
 
-.contact .contact-title span {
+.contact .contact-title h2 {
     padding-bottom: 15px;
     font-size: 40px;
     font-weight: 600;
@@ -493,33 +493,33 @@ footer .footer-text span a:hover {
 
 @media (max-width: 900px) {
 
-    .hero .text-two {
+    .hero h1 {
         font-size: 65px;
     }
 
-    .hero .text-three {
+    .hero h2 {
         font-size: 40px;
     }
 }
 
 @media (max-width: 750px) {
 
-    .hero .text-two {
+    .hero h1 {
         font-size: 54px;
     }
 
-    .hero .text-three {
+    .hero h2 {
         font-size: 35px;
     }
 }
 
 @media (max-width: 600px) {
     
-    .hero .text-two {
+    .hero h1 {
         font-size: 40px;
     }
 
-    .hero .text-three {
+    .hero h2 {
         font-size: 30px;
     }
     
@@ -535,11 +535,11 @@ footer .footer-text span a:hover {
         text-align: center;
     }
 
-    .hero .text-two {
+    .hero h1 {
         font-size: 40px;
     }
 
-    .hero .text-three {
+    .hero h2 {
         font-size: 30px;
     }
 }
