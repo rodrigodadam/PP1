@@ -12,7 +12,7 @@
   }
 
 section { 
-    padding-top: 50px; 
+    padding-top: 55px; 
 }
 
 /* ============ Header ============ */
@@ -195,7 +195,6 @@ section {
 .skills .content {
     width: 80%;
     margin: 42px auto;
-    font-family: 'Poppins';
 }
 
 .skills .skills-details {
@@ -266,7 +265,8 @@ section {
 }
 
 .carousel-item img {
-    height: 800px;
+    height: 100%;
+    width: auto;
 }
 
 /* --- End Portfolio Section --- */
@@ -375,11 +375,11 @@ section {
     margin: auto;
 }
 
-.contact .button {
+section form button {
     margin: 15px 0;
 }
 
-.contact .button button {
+section form button {
     outline: none;
     padding: 9px 16px;
     border-radius: 6px;
@@ -392,7 +392,7 @@ section {
     transition: all 0.5s ease;
 }
 
-.contact .button button:hover {
+section form button:hover {
     border-color: black;
     background-color: white;
     color: black;
