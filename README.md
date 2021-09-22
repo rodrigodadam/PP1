@@ -154,21 +154,6 @@ This website was created for professional purpose of completing the first Milest
 - [Stackoverflow](https://stackoverflow.com/)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Testing 
 
 Manual tests were conducted throughout the creation of this site.
@@ -176,30 +161,38 @@ Manual tests were conducted throughout the creation of this site.
 ### Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Frodrigodadam.github.io%2FPP1)
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Frodrigodadam.github.io%2FPP1%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 ### Unfixed Bugs
 
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
+# TO DO 
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
+Deployment To GitHub Pages:
 
-- The site was deployed to GitHub pages. The steps to deploy are as follows: 
-  - In the GitHub repository, navigate to the Settings tab 
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+  - I logged into [GitHub](https://github.com/) 
+  - In my account on the GitHub, I selected Repositories
+  - I selected the rodrigodadam / PP1 from the GitHub Dashboard. 
+  - I navigated to Settings and to the GitHub Pages section.
+  - From the Source section, I clicked on the drop-down menu and selected main Branch and clicked in save.
+  - Once the main branch has been selected and saved, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
+The live link can be found here - https://rodrigodadam.github.io/PP1/
 
 
 ## Credits 
 
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
+- __Media__
 
+  - All images used in this project are owned by Rodrigo Dadam.
+  - The fonts used was taken from [Google Fonts](https://fonts.google.com/).
+  - All icons are used from [Font Awesome](https://fontawesome.com/).
+
+- __Media__
+  
 You can break the credits section up into Content and Media, depending on what you have included in your project. 
 
 ### Content 
