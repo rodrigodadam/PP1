@@ -9,7 +9,7 @@ This website was created for professional purpose of completing the first Milest
 ## TO DO - Insert Atlassian weblink.
 [Please check the Product Backlog here](https://www.atlassian.com/)
 
-![Nav Bar](https://github.com/rodrigodadam/PP1/blob/main/assets/images/WebSiteMockup.png)
+![Responsice Mockup](https://github.com/rodrigodadam/PP1/blob/main/assets/images/WebSiteMockup.png)
 
 ## UX - User Experience - MVP
 
@@ -33,14 +33,34 @@ This website was created for professional purpose of completing the first Milest
     1. Check to see if there are any new services.
     2. Check to see if there are new skills as a customer needed.
 
-
-
-
 ## Structure
 
--   This MVP webpage is a Static page and contain navigation menu fixed at the top, which will direct the users to the selected part as the guest needed. On the right the guest users can see the Brand name to reinforcing the professionalism.
+- #### This MVP webpage is a Static page and contain navigation menu fixed at the top, which will direct the users to the selected part as the guest needed. On the right the guest users can see the Brand name to reinforcing the professionalism.
 
-    -   In header the guest user can see the hero image and the a bit information about the Professional, also has a **HIRE BUTTON** that can easy send the guest user to a form page to send a request to Professional about the services and prices, The Form Page will be included later in this project.
+- __Navigation Bar__
+
+  - Navigation Manu is full responsive and includes links to the Logo, Home page, About, My Skills, Portfolio, My Services and Contact Me page and is identical in each page to allow for easy navigation.
+  - This section is FIXED on the TOP and will allow the user to easily navigate from page to page. Also as responsive designed the user can navigate easy across all devices without having to revert back to the previous page via the ‘back’ button. 
+
+![Nav Bar](https://github.com/rodrigodadam/PP1/blob/main/assets/images/navbar.png)
+
+- __The Home Page Image__
+
+  - The landing includes a abstract image with text overlay to introduce the professional and allow the user to see exactly who is this professional. 
+  - This section has a **Button** that can easy send the guest user to a form contact [CONTACT-ME](https://rodrigodadam.github.io/PP1/index.html#contact) page, as follow MVP the Redirect will be substituted for a POP UP as Backlog "Future Feature"
+
+![Home Page](https://github.com/rodrigodadam/PP1/blob/main/assets/images/homepage.png)
+
+
+
+
+
+
+
+
+
+
+
 
     -   Also the guests users could see the social icon links for easy access to social media for more content without scrolling the page.
 
@@ -66,12 +86,6 @@ In this section, you should go over the different parts of your project, and des
 
 ### Existing Features
 
-- __Navigation Bar__
-
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
-
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
 
 - __The landing page image__
 
