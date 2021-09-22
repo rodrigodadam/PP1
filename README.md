@@ -5,10 +5,6 @@
 
 This website was created for professional purpose of completing the first Milestone Project for the Code Institute's Full Stack Developer course. However also I'll consider this a MVP for my professional Portfolio and a marketing website where I can share my services. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate whether on your computer, tablet or mobile. Also the Project has a Product Backlog and I'll follow some Agile Principles.
 
-
-## TO DO - Insert Atlassian weblink.
-[Please check the Product Backlog here](https://www.atlassian.com/)
-
 ![Responsice Mockup](https://github.com/rodrigodadam/PP1/blob/main/assets/images/WebSiteMockup.png)
 
 ## UX - User Experience - MVP
@@ -112,21 +108,21 @@ This website was created for professional purpose of completing the first Milest
 
 ### Wireframes
 
-#### TO DO
+  - [Home Page Wireframe](https://github.com/rodrigodadam/PP1/blob/main/assets/images/Wireframes/wireframe-home-page.png)
 
 
 ### Features to Implement in Future
 
-- __ADD DB__
+- To help organize all information that I need to build this website I used [Jira](https://www.atlassian.com/) with Kanban Board.
+
+- __Crete DB__
 - __ADD POP UP Form HIRE ME Button__
 - __Create a Form to NewsLetters__
 - __Create a Popups to NewaLetters__
 - __Add a Content Management System (CMS) *Blog*__
-- __Separate The Portfolio Into a Single Tab__
 - __Stay Within the SOLID Principles as Much as Possible__
-- __ADD TOPUP to CONTACT-ME Button__
-- __ADD About Me Single Page with more details__
-- __ADD Exemples of each service on a single pages && create a button link to .myservices-topic__
+- __ADD TOP UP to CONTACT-ME Button__
+- __Create a Simple Pages for About Me and Portfolio Sections__
 - __GPDR compliant POP UP__
 - __ADD reCAPTCHA to contact forms__
 
