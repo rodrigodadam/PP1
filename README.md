@@ -93,9 +93,65 @@ This website was created for professional purpose of completing the first Milest
 - __Footer__
 
   - Simple footer with information who created the website.
-  - The createor name has a link to [HOME]https://rodrigodadam.github.io/PP1/index.html).
+  - The creator name has a link to [HOME]https://rodrigodadam.github.io/PP1/index.html).
 
 ![Contact-Me](https://github.com/rodrigodadam/PP1/blob/main/assets/images/footer.png)
+
+
+## Design
+
+- __Color Scheme__
+
+  - The three main colours used are Black ![#000000], White ![#FFFFFF] and a tone of orange/red ![#F26934].
+
+- __Typography__
+
+  - The Main font used throughout this website is [Poppins](https://fonts.google.com/specimen/Poppins?query=poppins#glyphs) family because this font is clean and professional font.
+  - The Logo font used is [Pacifico](https://fonts.google.com/specimen/Pacifico) family. This font refers to a typology that is very reminiscent of a signature, for this reason it was chosen to be used in the website logo.
+
+
+### Wireframes
+
+#### TO DO
+
+
+### Features to Implement in Future
+
+- __ADD DB__
+- __ADD POP UP Form HIRE ME Button__
+- __Create a Form to NewsLetters__
+- __Create a Popups to NewaLetters__
+- __Add a Content Management System (CMS) *Blog*__
+- __Separate The Portfolio Into a Single Tab__
+- __Stay Within the SOLID Principles as Much as Possible__
+- __ADD TOPUP to CONTACT-ME Button__
+- __ADD About Me Single Page with more details__
+- __ADD Exemples of each service on a single pages && create a button link to .myservices-topic__
+- __GPDR compliant POP UP__
+- __ADD reCAPTCHA to contact forms__
+
+
+## Technologies Used
+
+### Languages Used
+
+-   [HTML5](https://en.wikipedia.org/wiki/HTML5)
+-   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+
+
+### Frameworks, Libraries & Programs Used
+
+- [Bootstrap:](https://getbootstrap.com/)
+- [Google Fonts:](https://fonts.google.com/)
+- [Font Awesome:](https://fontawesome.com/)
+- [jQuery:](https://jquery.com/)
+- [Git](https://git-scm.com/)
+- [GitHub:](https://github.com/)
+- [Favicon:](https://favicon.io/)
+- [Coolors:](https://htmlcolorcodes.com/)
+- [Google Chrome Developer Tools:](https://developers.google.com/web/tools/chrome-devtools)
+- [Responsinator:](https://www.responsinator.com/)
+- [Stackoverflow](https://stackoverflow.com/)
 
 
 
@@ -123,11 +179,6 @@ USED - https://htmlcolorcodes.com/ to choice the colors to webpage
 USED - https://stackoverflow.com/ to help with some CSS issues
 
 
-
-
-### Features Left to Implement
-
-- Another feature idea
 
 ## Testing 
 
