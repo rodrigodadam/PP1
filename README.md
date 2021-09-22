@@ -44,12 +44,33 @@ This website was created for professional purpose of completing the first Milest
 
 ![Nav Bar](https://github.com/rodrigodadam/PP1/blob/main/assets/images/navbar.png)
 
-- __The Home Page Image__
+- __The Home Page, Image__
 
   - The landing includes a abstract image with text overlay to introduce the professional and allow the user to see exactly who is this professional. 
-  - This section has a **Button** that can easy send the guest user to a form contact [CONTACT-ME](https://rodrigodadam.github.io/PP1/index.html#contact) page, as follow MVP the Redirect will be substituted for a POP UP as Backlog "Future Feature"
+  - This section has a **Button** that can easy send the guest user to a form contact [CONTACT-ME](https://rodrigodadam.github.io/PP1/index.html#contact) page. This redirect will be substituted for a POP UP "Future Feature"
 
 ![Home Page](https://github.com/rodrigodadam/PP1/blob/main/assets/images/homepage.png)
+
+- __About Me__
+
+  - This page gives the guest user additional information about the Professional and his Background.
+  - The page is split into two colums on large screens. On smaller screens the image will be displayed first. Users can scroll down to see the text. 
+
+![About Me](https://github.com/rodrigodadam/PP1/blob/main/assets/images/aboutme.png)
+
+- __My Skills__
+
+  - This page gives the guest user additional information about the Professional's Skills, with this information all guest users will have ease understand what type of job the professional could provide.
+  - The page is split into two colums on large screens. On smaller screens just one colum.
+
+![My Skills](https://github.com/rodrigodadam/PP1/blob/main/assets/images/myskills.png)
+
+- __Portfolio__
+
+  - This page gives the guest user additional information about the Professional's Skills, with this information all guest users will have ease understand what type of job the professional could provide.
+  - The page is split into two colums on large screens. On smaller screens just one colum.
+
+![Portfolio](https://github.com/rodrigodadam/PP1/blob/main/assets/images/portfolio.png)
 
 
 
@@ -212,7 +233,7 @@ Getting started with your Portfolio Projects can be daunting, planning your proj
 ## Product Backlog
 
 - __ADD DB__
-- __ADD Form page to HIRE ME Button__
+- __ADD POP UP Form HIRE ME Button__
 - __Create a Form to NewsLetters__
 - __Create a Popups to NewaLetters__
 - __Add a Content Management System (CMS) *Blog*__
