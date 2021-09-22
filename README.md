@@ -2,7 +2,12 @@
 
 [You can see the MVP website here](https://rodrigodadam.github.io/PP1/)
 
-This website was created for professional purpose of completing the first Milestone Project for the Code Institute's Full Stack Developer course. However also I'll consider this a MVP for my professional Portfolio and a marketing website where I can share my services. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate whether on your computer, tablet or mobile.
+
+This website was created for professional purpose of completing the first Milestone Project for the Code Institute's Full Stack Developer course. However also I'll consider this a MVP for my professional Portfolio and a marketing website where I can share my services. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate whether on your computer, tablet or mobile. Also the Project has a Product Backlog and I'll follow some Agile Principles.
+
+
+## TO DO - Insert Atlassian weblink.
+[Please check the Product Backlog here](https://www.atlassian.com/)
 
 ![Nav Bar](https://github.com/rodrigodadam/PP1/blob/main/assets/images/WebSiteMockup.png)
 
@@ -28,18 +33,7 @@ This website was created for professional purpose of completing the first Milest
     1. Check to see if there are any new services.
     2. Check to see if there are new skills as a customer needed.
 
-## Product Backlog
 
-- __ADD DB__
-- __ADD Form page to HIRE ME Button__
-- __Create a Form to NewsLetters__
-- __Create a Popups to NewaLetters__
-- __Add a Content Management System (CMS) *Blog*__
-- __Separate The Portfolio Into a Single Tab__
-- __Stay Within the SOLID Principles as Much as Possible__
-- __ADD TOPUP to CONTACT-ME Button__
-- __ADD About Me Single Page with more details__
-- __ADD Exemples of each service on a single pages && create a button link to .myservices-topic__
 
 
 ## Structure
@@ -198,3 +192,18 @@ Below you will find a couple of extra tips that may be helpful when completing y
   - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html#General)
 
 Getting started with your Portfolio Projects can be daunting, planning your project can make it a lot easier to tackle, take small steps to reach the final outcome and enjoy the process! 
+
+
+
+## Product Backlog
+
+- __ADD DB__
+- __ADD Form page to HIRE ME Button__
+- __Create a Form to NewsLetters__
+- __Create a Popups to NewaLetters__
+- __Add a Content Management System (CMS) *Blog*__
+- __Separate The Portfolio Into a Single Tab__
+- __Stay Within the SOLID Principles as Much as Possible__
+- __ADD TOPUP to CONTACT-ME Button__
+- __ADD About Me Single Page with more details__
+- __ADD Exemples of each service on a single pages && create a button link to .myservices-topic__
