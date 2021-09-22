@@ -102,7 +102,7 @@ This website was created for professional purpose of completing the first Milest
 
 - __Color Scheme__
 
-  - The three main colours used are Black ![#000000], White ![#FFFFFF] and a tone of orange/red ![#F26934].
+  - The three main colours used are Black #000000, White #FFFFFF] and a tone of orange/red #F26934.
 
 - __Typography__
 
@@ -148,7 +148,7 @@ This website was created for professional purpose of completing the first Milest
 - [Git](https://git-scm.com/)
 - [GitHub:](https://github.com/)
 - [Favicon:](https://favicon.io/)
-- [Coolors:](https://htmlcolorcodes.com/)
+- [HtmlColors:](https://htmlcolorcodes.com/)
 - [Google Chrome Developer Tools:](https://developers.google.com/web/tools/chrome-devtools)
 - [Responsinator:](https://www.responsinator.com/)
 - [Stackoverflow](https://stackoverflow.com/)
@@ -161,35 +161,17 @@ This website was created for professional purpose of completing the first Milest
 
 
 
-    
-
-
-
- 
 
 
 
 
 
-
-
-# TO DO BELOW
-
-USED - https://htmlcolorcodes.com/ to choice the colors to webpage
-USED - https://stackoverflow.com/ to help with some CSS issues
 
 
 
 ## Testing 
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
-
+Manual tests were conducted throughout the creation of this site.
 
 ### Validator Testing 
 
@@ -251,17 +233,3 @@ Below you will find a couple of extra tips that may be helpful when completing y
 
 Getting started with your Portfolio Projects can be daunting, planning your project can make it a lot easier to tackle, take small steps to reach the final outcome and enjoy the process! 
 
-
-
-## Product Backlog
-
-- __ADD DB__
-- __ADD POP UP Form HIRE ME Button__
-- __Create a Form to NewsLetters__
-- __Create a Popups to NewaLetters__
-- __Add a Content Management System (CMS) *Blog*__
-- __Separate The Portfolio Into a Single Tab__
-- __Stay Within the SOLID Principles as Much as Possible__
-- __ADD TOPUP to CONTACT-ME Button__
-- __ADD About Me Single Page with more details__
-- __ADD Exemples of each service on a single pages && create a button link to .myservices-topic__
