@@ -48,30 +48,54 @@ This website was created for professional purpose of completing the first Milest
 
   - The landing includes a abstract image with text overlay to introduce the professional and allow the user to see exactly who is this professional. 
   - This section has a **Button** that can easy send the guest user to a form contact [CONTACT-ME](https://rodrigodadam.github.io/PP1/index.html#contact) page. This redirect will be substituted for a POP UP "Future Feature"
+  -   Also the guests users could see the social icon links for easy access to social media for more content without scrolling the page.
 
 ![Home Page](https://github.com/rodrigodadam/PP1/blob/main/assets/images/homepage.png)
 
 - __About Me__
 
-  - This page gives the guest user additional information about the Professional and his Background.
+  - This page all guest users can see more information **About** the Professional, his history, his information and experience to the guest users understand how the Professional should help in their projects.
   - The page is split into two colums on large screens. On smaller screens the image will be displayed first. Users can scroll down to see the text. 
 
 ![About Me](https://github.com/rodrigodadam/PP1/blob/main/assets/images/aboutme.png)
 
 - __My Skills__
 
-  - This page gives the guest user additional information about the Professional's Skills, with this information all guest users will have ease understand what type of job the professional could provide.
+  - The [My Skills](https://rodrigodadam.github.io/PP1/index.html#myskills) page gives the guest user additional information about the Professional's Skills, with this information all guest users will have ease understand what type of job the professional could provide.
   - The page is split into two colums on large screens. On smaller screens just one colum.
+  - Created useing progress bar with [Boostrap5](https://getbootstrap.com/docs/5.0/components/carousel/).
 
 ![My Skills](https://github.com/rodrigodadam/PP1/blob/main/assets/images/myskills.png)
 
 - __Portfolio__
 
-  - This page gives the guest user additional information about the Professional's Skills, with this information all guest users will have ease understand what type of job the professional could provide.
-  - The page is split into two colums on large screens. On smaller screens just one colum.
+  - This page all users can see some professional's service and his [PORTFOLIO](https://rodrigodadam.github.io/PP1/index.html#portfolio).
+  - This page give the guest users exemples of Professional services and brings more confidence to his work.
+  - The carousel as build with [Boostrap5](https://getbootstrap.com/docs/5.0/components/carousel/), and is completly responsive.
+  - This page will increase with more services as needed.
 
 ![Portfolio](https://github.com/rodrigodadam/PP1/blob/main/assets/images/portfolio.png)
 
+- __My Services__
+
+  - Here all users can see what [SERVICES](https://rodrigodadam.github.io/PP1/index.html#myservices) the professional could give to them. Whit this information the professional could avoid some requests that is Out of Scope.
+  - This section is split in 3 colums on large screens. On smaller screens just one colum.
+
+![My Services](https://github.com/rodrigodadam/PP1/blob/main/assets/images/myservices.png)
+
+- __Contact-Me__
+
+  - The [Contact-Me](https://rodrigodadam.github.io/PP1/index.html#contact) page is important because it is where the user will request an information or request a quotation.
+  - As Part of MVP this page will be change in the future to a POP UP form.
+
+![Contact-Me](https://github.com/rodrigodadam/PP1/blob/main/assets/images/contact-me.png)
+
+- __Footer__
+
+  - Simple footer with information who created the website.
+  - The createor name has a link to [HOME]https://rodrigodadam.github.io/PP1/index.html).
+
+![Contact-Me](https://github.com/rodrigodadam/PP1/blob/main/assets/images/footer.png)
 
 
 
@@ -81,11 +105,9 @@ This website was created for professional purpose of completing the first Milest
 
 
 
+    
 
 
-    -   Also the guests users could see the social icon links for easy access to social media for more content without scrolling the page.
-
-    -   In **About** Section all guest user can see more information **About** the Professional, his history, his information and experience to the guest users understand how the Professional should help in their projects.
 
  
 
