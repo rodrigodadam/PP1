@@ -123,6 +123,12 @@ section {
     color: black;
 }
 
+.hero .social-media i {
+    color: #F26934;
+    padding-right: 1%;
+    margin-top: 1%;
+}
+
 /* --- End Hero Section --- */
 
 /* --- Start About Section --- */
@@ -473,6 +479,10 @@ footer .footer-text span a:hover {
 
     .about-details .about-right {
         text-align: center;
+    }
+
+    .hero .social-media i {
+        margin-top: 2%;
     }
 }
 
