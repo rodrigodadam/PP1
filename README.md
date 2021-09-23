@@ -109,6 +109,11 @@ This website was created for professional purpose of completing the first Milest
 ### Wireframes
 
   - [Home Page Wireframe](https://github.com/rodrigodadam/PP1/blob/main/assets/images/Wireframes/wireframe-home-page.png)
+  - [About Page Wireframe](https://github.com/rodrigodadam/PP1/blob/main/assets/images/Wireframes/aboutme.png)
+  - [My Skills Page Wireframe](https://github.com/rodrigodadam/PP1/blob/main/assets/images/Wireframes/myskills.png)
+  - [Portfolio Page Wireframe](https://github.com/rodrigodadam/PP1/blob/main/assets/images/Wireframes/portfolio.png)
+  - [My Services Page Wireframe](https://github.com/rodrigodadam/PP1/blob/main/assets/images/Wireframes/myservices.png)
+  - [Contact-Me Page Wireframe](https://github.com/rodrigodadam/PP1/blob/main/assets/images/Wireframes/contact.png)
 
 
 ### Features to Implement in Future
