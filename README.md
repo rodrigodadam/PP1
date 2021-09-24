@@ -98,7 +98,7 @@ This website was created for professional purpose of completing the first Milest
 
 - __Color Scheme__
 
-  - The three main colours used are Black #000000, White #FFFFFF] and a tone of orange/red #F26934.
+  - The three main colours used are Black #000000, White #FFFFFF and a tone of orange/red #F26934.
 
 - __Typography__
 

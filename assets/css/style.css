@@ -61,7 +61,7 @@ section {
 /* --- Start Hero Section --- */
 
 .hero {
-    height: 940px;
+    height: 100%;
     width: 100%;
     background: url(../images/background-hero.jpg);
     background-position: center;
