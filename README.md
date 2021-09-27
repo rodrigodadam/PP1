@@ -119,7 +119,7 @@ This website was created for professional purpose of completing the first Milest
 ### Features to Implement in Future
 
 - To help organize all future information (Product Backlog) that I need to build this website I used [Jira](https://www.atlassian.com/) with Kanban Board.
-  - [Kanban Board](https://github.com/rodrigodadam/PP1/blob/main/assets/images/kanban.png)
+![Kanban Board](https://github.com/rodrigodadam/PP1/blob/main/assets/images/kanban.png)
 
 
 ## Technologies Used
@@ -155,11 +155,10 @@ Manual tests were conducted throughout the creation of this site.
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Frodrigodadam.github.io%2FPP1)
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Frodrigodadam.github.io%2FPP1%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
-
-### Chrome Developer Tools
-
 - Lighthouse
-  - [Accessibility and Best Practices](https://github.com/rodrigodadam/PP1/blob/main/assets/images/validators/googletools.png)
+  - I confirmed that the colors and fonts chosen are easy to read and accessible to the Guests Users by running through Lighthouse in Developer Tools.
+  ![Contact-Me](https://github.com/rodrigodadam/PP1/blob/main/assets/images/validators/devtools.png)
+
 
 ### Known Bugs
 
