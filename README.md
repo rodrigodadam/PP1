@@ -40,7 +40,7 @@ For example: rodrigodadam is a Portifolio Website that help me to show some serv
   - Navigation Manu is full responsive and includes links to the Logo, Home page, About, My Skills, Portfolio, My Services and Contact Me page and is identical in each page to allow for easy navigation.
   - This section is FIXED on the TOP and will allow the user to easily navigate from page to page. Also as responsive designed the user can navigate easy across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-![Nav Bar](https://github.com/rodrigodadam/PP1/blob/main/assets/images/navbar.png)
+![Nav Bar](https://github.com/rodrigodadam/PP1/blob/main/assets/images/structure/navbar.png)
 
 - __The Home Page, Image__
 
@@ -48,14 +48,14 @@ For example: rodrigodadam is a Portifolio Website that help me to show some serv
   - This section has a **Button** that can easy send the guest user to a form contact [CONTACT-ME](https://rodrigodadam.github.io/PP1/index.html#contact) page. This redirect will be substituted for a POP UP "Future Feature"
   -   Also the guests users could see the social icon links for easy access to social media for more content without scrolling the page.
 
-![Home Page](https://github.com/rodrigodadam/PP1/blob/main/assets/images/homepage.png)
+![Home Page](https://github.com/rodrigodadam/PP1/blob/main/assets/images/structure/homepage.png)
 
 - __About Me__
 
   - This page all guest users can see more information **About** the Professional, his history, his information and experience to the guest users understand how the Professional should help in their projects.
   - The page is split into two colums on large screens. On smaller screens the image will be displayed first. Users can scroll down to see the text. 
 
-![About Me](https://github.com/rodrigodadam/PP1/blob/main/assets/images/aboutme.png)
+![About Me](https://github.com/rodrigodadam/PP1/blob/main/assets/images/structure/aboutme.png)
 
 - __My Skills__
 
@@ -63,7 +63,7 @@ For example: rodrigodadam is a Portifolio Website that help me to show some serv
   - The page is split into two colums on large screens. On smaller screens just one colum.
   - Created useing progress bar with [Boostrap5](https://getbootstrap.com/docs/5.0/components/carousel/).
 
-![My Skills](https://github.com/rodrigodadam/PP1/blob/main/assets/images/myskills.png)
+![My Skills](https://github.com/rodrigodadam/PP1/blob/main/assets/images/structure/myskills.png)
 
 - __Portfolio__
 
@@ -72,35 +72,35 @@ For example: rodrigodadam is a Portifolio Website that help me to show some serv
   - The carousel as build with [Boostrap5](https://getbootstrap.com/docs/5.0/components/carousel/), and is completly responsive.
   - This page will increase with more services as needed.
 
-![Portfolio](https://github.com/rodrigodadam/PP1/blob/main/assets/images/portfolio.png)
+![Portfolio](https://github.com/rodrigodadam/PP1/blob/main/assets/images/structure/portfolio.png)
 
 - __My Services__
 
   - Here all users can see what [SERVICES](https://rodrigodadam.github.io/PP1/index.html#myservices) the professional could give to them. Whit this information the professional could avoid some requests that is Out of Scope.
   - This section is split in 3 colums on large screens. On smaller screens just one colum.
 
-![My Services](https://github.com/rodrigodadam/PP1/blob/main/assets/images/myservices.png)
+![My Services](https://github.com/rodrigodadam/PP1/blob/main/assets/images/structure/myservices.png)
 
 - __Contact-Me__
 
   - The [Contact-Me](https://rodrigodadam.github.io/PP1/index.html#contact) page is important because it is where the user will request an information or request a quotation.
 
-![Contact-Me](https://github.com/rodrigodadam/PP1/blob/main/assets/images/contact-me.png)
+![Contact-Me](https://github.com/rodrigodadam/PP1/blob/main/assets/images/structure/contact.png)
 
   - To give a better UX to the guest users was added to this MVP a feedback top-up in a Submit button.
 
     - One to validate if the fields are Empty.
-    ![Empty Fields](https://github.com/rodrigodadam/PP1/blob/main/assets/images/emptyfields.png)
+    ![Empty Fields](https://github.com/rodrigodadam/PP1/blob/main/assets/images/structure/emptyfields.png)
 
     - One to give a feedback to Users.
-    ![Empty Fields](https://github.com/rodrigodadam/PP1/blob/main/assets/images/feedback.png)
+    ![Empty Fields](https://github.com/rodrigodadam/PP1/blob/main/assets/images/structure/feedback.png)
 
 - __Footer__
 
   - Simple footer with information who created the website.
   - The creator's name has a link to [HOME](https://rodrigodadam.github.io/PP1/index.html).
 
-![Contact-Me](https://github.com/rodrigodadam/PP1/blob/main/assets/images/footer.png)
+![Contact-Me](https://github.com/rodrigodadam/PP1/blob/main/assets/images/structure/footer.png)
 
 
 ## Design
