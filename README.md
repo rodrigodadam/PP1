@@ -118,18 +118,8 @@ This website was created for professional purpose of completing the first Milest
 
 ### Features to Implement in Future
 
-- To help organize all information that I need to build this website I used [Jira](https://www.atlassian.com/) with Kanban Board.
-
-- __Crete DB__
-- __ADD POP UP Form HIRE ME Button__
-- __Create a Form to NewsLetters__
-- __Create a Popups to NewaLetters__
-- __Add a Content Management System (CMS) *Blog*__
-- __Stay Within the SOLID Principles as Much as Possible__
-- __ADD TOP UP to CONTACT-ME Button__
-- __Create a Simple Pages for About Me and Portfolio Sections__
-- __GPDR compliant POP UP__
-- __ADD reCAPTCHA to contact forms__
+- To help organize all future information (Product Backlog) that I need to build this website I used [Jira](https://www.atlassian.com/) with Kanban Board.
+  - [Kanban Board](https://github.com/rodrigodadam/PP1/blob/main/assets/images/kanban.png)
 
 
 ## Technologies Used
