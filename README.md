@@ -5,6 +5,8 @@
 
 This website was created for professional purpose of completing the first Milestone Project for the Code Institute's Full Stack Developer course. However also I'll consider this a MVP for my professional Portfolio and a marketing website where I can share my services. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate whether on your computer, tablet or mobile. Also the Project has a Product Backlog and I'll follow some Agile Principles.
 
+For example: rodrigodadam is a Portifolio Website that help me to show some services provided also help more people find which type of services the professional could provide. The site will be updated in the future, with more features and alfo with more services, " I will only show services that customers have given proper authorization ". This portfolio will be very useful for people who are looking for the services provided and have some difficulty in finding a professional to do this work.
+
 ![Responsice Mockup](https://github.com/rodrigodadam/PP1/blob/main/assets/images/WebSiteMockup.png)
 
 ## UX - User Experience - MVP
