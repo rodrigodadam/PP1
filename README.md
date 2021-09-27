@@ -82,14 +82,21 @@ This website was created for professional purpose of completing the first Milest
 - __Contact-Me__
 
   - The [Contact-Me](https://rodrigodadam.github.io/PP1/index.html#contact) page is important because it is where the user will request an information or request a quotation.
-  - As Part of MVP this page will be change in the future to a POP UP form.
 
 ![Contact-Me](https://github.com/rodrigodadam/PP1/blob/main/assets/images/contact-me.png)
+
+  - To give a better UX to the guest users was added to this MVP a feedback top-up in a Submit button.
+
+    - One to validate if the fields are Empty.
+    ![Empty Fields](https://github.com/rodrigodadam/PP1/blob/main/assets/images/emptyfields.png)
+
+    - One to give a feedback to Users.
+    ![Empty Fields](https://github.com/rodrigodadam/PP1/blob/main/assets/images/feedback.png)
 
 - __Footer__
 
   - Simple footer with information who created the website.
-  - The creator name has a link to [HOME]https://rodrigodadam.github.io/PP1/index.html).
+  - The creator's name has a link to [HOME](https://rodrigodadam.github.io/PP1/index.html).
 
 ![Contact-Me](https://github.com/rodrigodadam/PP1/blob/main/assets/images/footer.png)
 
@@ -143,6 +150,7 @@ This website was created for professional purpose of completing the first Milest
 - [Google Chrome Developer Tools:](https://developers.google.com/web/tools/chrome-devtools)
 - [Responsinator:](https://www.responsinator.com/)
 - [Stackoverflow](https://stackoverflow.com/)
+- [Sweet Alert](https://sweetalert.js.org/)
 
 
 ## Testing 
