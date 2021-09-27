@@ -1,9 +1,9 @@
 $("#submitBtn").click(function() {
 
-  let name = $("#formName").val();
-  let email = $("#formEmail").val();
-  let subject = $("#formSubject").val();
-  let message = $("#formText").val();
+  let name = $("#form-name").val();
+  let email = $("#form-email").val();
+  let subject = $("#form-subject").val();
+  let message = $("#form-text").val();
 
   if(name == '' || email == '' || subject == '' || message == '') {
     swal({
@@ -21,4 +21,4 @@ $("#submitBtn").click(function() {
     });
   }
   
-})
+});
