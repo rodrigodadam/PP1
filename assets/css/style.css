@@ -366,11 +366,12 @@ section {
     margin-top: 25px;
 }
 
-.contact .text {
+.contact .text .form-title {
     text-align: center;
 }
 
 .contact .text .contact-topic {
+    text-align: center;
     font-size: 32px;
     font-weight: 500;
     margin-bottom: 15px;
