@@ -2,10 +2,9 @@
 
 [You can see the MVP website here](https://rodrigodadam.github.io/PP1/)
 
+This website was created to complete the first Milestone Project for the Code Institute's Full Stack Developer course. However, I will consider this an MVP for my professional Portfolio and a marketing website where I can share my services. It is designed to be responsive and accessible on a range of devices, making it easy to navigate whether on your computer, tablet or mobile. Also, the Project has a Product Backlog and I will follow some Agile Principles.
 
-This website was created for professional purpose of completing the first Milestone Project for the Code Institute's Full Stack Developer course. However also I'll consider this a MVP for my professional Portfolio and a marketing website where I can share my services. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate whether on your computer, tablet or mobile. Also the Project has a Product Backlog and I'll follow some Agile Principles.
-
-For example: rodrigodadam is a Portifolio Website that help me to show some services provided also help more people find which type of services the professional could provide. The site will be updated in the future, with more features and alfo with more services, " I will only show services that customers have given proper authorization ". This portfolio will be very useful for people who are looking for the services provided and have some difficulty in finding a professional to do this work.
+For example: This website helps me to show my skills and some projects I have worked on for clients. The site will be updated in the future, with more features and also with more services, " I will only show services that customers have given proper authorization ". This portfolio will be useful to people who are looking for the services that I provide. And have some difficulties in finding professionals to work on their projects.
 
 ![Responsice Mockup](https://github.com/rodrigodadam/PP1/blob/main/assets/images/WebSiteMockup.png)
 
@@ -15,36 +14,36 @@ For example: rodrigodadam is a Portifolio Website that help me to show some serv
 
   - #### First Time Visitor Goals
     
-    1. Easily understand the main purpose of the site and learn more about the Professional and services offered.
-    2. Eeasily navigate throughout the site to find content and information about the Professional.
-    3. Look the portfolio to understand the services offered. 
+    1. Easily understand the main purpose of the site and learn more about me and the services I offer.
+    2. Easily navigate throughout the site to find content and information about my professional work.
+    3. See and Understand the services That I provide. 
 
   - #### Returning Visitor Goals
 
     1. Find information about the services offered.
-    2. Find the best way to get in contact with the professional with any questions.
+    2. Find the best way to get in contact with me and make enquires.
     3. Find social media links.
-    4. Hire the Professional services.
+    4. Hire me to work on a project.
 
   - #### Frequent User Goals
 
     1. Check to see if there are any new services.
-    2. Check to see if there are new skills as a customer needed.
+    2. Check to see if there are new skills.
 
 ## Structure
 
-- #### This MVP webpage is a Static page and contain navigation menu fixed at the top, which will direct the users to the selected part as the guest needed. On the right the guest users can see the Brand name to reinforcing the professionalism.
+- #### This MVP webpage is a Static page and contain navigation menu fixed at the top, which will direct the users to the selected part as the guest needed. On the right the guest users can see the Brand name to reinforce professionalism
 
 - __Navigation Bar__
 
-  - Navigation Manu is full responsive and includes links to the Logo, Home page, About, My Skills, Portfolio, My Services and Contact Me page and is identical in each page to allow for easy navigation.
+  - Navigation Menu is full responsive and includes links to the Logo, Home page, About, My Skills, Portfolio, My Services and Contact Me page and is identical in each page to allow for easy navigation.
   - This section is FIXED on the TOP and will allow the user to easily navigate from page to page. Also as responsive designed the user can navigate easy across all devices without having to revert back to the previous page via the ‘back’ button. 
 
 ![Nav Bar](https://github.com/rodrigodadam/PP1/blob/main/assets/images/structure/navbar.png)
 
 - __The Home Page, Image__
 
-  - The landing includes a abstract image with text overlay to introduce the professional and allow the user to see exactly who is this professional. 
+  - The landing includes a abstract image with text overlay to introduce-me and allow the user to see exactly who is the professional. 
   - This section has a **Button** that can easy send the guest user to a form contact [CONTACT-ME](https://rodrigodadam.github.io/PP1/index.html#contact) page. This redirect will be substituted for a POP UP "Future Feature"
   -   Also the guests users could see the social icon links for easy access to social media for more content without scrolling the page.
 
@@ -52,14 +51,14 @@ For example: rodrigodadam is a Portifolio Website that help me to show some serv
 
 - __About Me__
 
-  - This page all guest users can see more information **About** the Professional, his history, his information and experience to the guest users understand how the Professional should help in their projects.
+  - This page all guest users can see more information **About** Me, my history, my information and my experience to the guest users understand how should I help in their projects.
   - The page is split into two colums on large screens. On smaller screens the image will be displayed first. Users can scroll down to see the text. 
 
 ![About Me](https://github.com/rodrigodadam/PP1/blob/main/assets/images/structure/aboutme.png)
 
 - __My Skills__
 
-  - The [My Skills](https://rodrigodadam.github.io/PP1/index.html#myskills) page gives the guest user additional information about the Professional's Skills, with this information all guest users will have ease understand what type of job the professional could provide.
+  - The [My Skills](https://rodrigodadam.github.io/PP1/index.html#myskills) page gives the guest user additional information about my professional Skills, with this information all guest users will easily understand what type of job I can provide.
   - The page is split into two colums on large screens. On smaller screens just one colum.
   - Created useing progress bar with [Boostrap5](https://getbootstrap.com/docs/5.0/components/carousel/).
 
@@ -67,8 +66,7 @@ For example: rodrigodadam is a Portifolio Website that help me to show some serv
 
 - __Portfolio__
 
-  - This page all users can see some professional's service and his [PORTFOLIO](https://rodrigodadam.github.io/PP1/index.html#portfolio).
-  - This page give the guest users exemples of Professional services and brings more confidence to his work.
+  - This page all users can see my services and portfolio. [PORTFOLIO](https://rodrigodadam.github.io/PP1/index.html#portfolio).
   - The carousel as build with [Boostrap5](https://getbootstrap.com/docs/5.0/components/carousel/), and is completly responsive.
   - This page will increase with more services as needed.
 
@@ -76,7 +74,7 @@ For example: rodrigodadam is a Portifolio Website that help me to show some serv
 
 - __My Services__
 
-  - Here all users can see what [SERVICES](https://rodrigodadam.github.io/PP1/index.html#myservices) the professional could give to them. Whit this information the professional could avoid some requests that is Out of Scope.
+  - Here all users can see what [SERVICES](https://rodrigodadam.github.io/PP1/index.html#myservices) I can provide.
   - This section is split in 3 colums on large screens. On smaller screens just one colum.
 
 ![My Services](https://github.com/rodrigodadam/PP1/blob/main/assets/images/structure/myservices.png)
@@ -100,7 +98,7 @@ For example: rodrigodadam is a Portifolio Website that help me to show some serv
   - Simple footer with information who created the website.
   - The creator's name has a link to [HOME](https://rodrigodadam.github.io/PP1/index.html).
 
-![Contact-Me](https://github.com/rodrigodadam/PP1/blob/main/assets/images/structure/footer.png)
+![Footer](https://github.com/rodrigodadam/PP1/blob/main/assets/images/structure/footer.png)
 
 
 ## Design
