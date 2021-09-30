@@ -13,7 +13,7 @@ $("#submitBtn").click(function() {
       button: "OK!",
     });
 
-    return window.location.assign(https://rodrigodadam.github.io/PP1/?#contact)
+    return window.location.assign("https://rodrigodadam.github.io/PP1/?#contact");
 
   } else {
     swal({
@@ -22,6 +22,9 @@ $("#submitBtn").click(function() {
       icon: "success",
       button: "OK!",
     });
+
+    return $("#myForm").reset();
+
   }
   
 });
