@@ -23,7 +23,10 @@ $("#submitBtn").click(function() {
       button: "OK!",
     });
 
-    return $("#myForm").reset();
+    document.getElementById("form-name").value = '';
+    document.getElementById("form-email").value = '';
+    document.getElementById("form-subject").value = '';
+    document.getElementById("form-text").value = '';
 
   }
   
