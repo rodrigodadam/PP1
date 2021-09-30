@@ -12,6 +12,9 @@ $("#submitBtn").click(function() {
       icon: "warning",
       button: "OK!",
     });
+
+    return window.location.assign(https://rodrigodadam.github.io/PP1/?#contact)
+
   } else {
     swal({
       title: "Thank you for your e-mail!",
